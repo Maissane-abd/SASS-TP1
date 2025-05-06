@@ -1,0 +1,31 @@
+/* CSS */
+
+header {
+    background-color: crimson ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5em 1em;
+}
+
+img {
+    width: 10rem;
+    padding-left: 2rem;
+}
+
+ul {
+    display: flex;
+    gap: 1rem;
+    margin: 2rem;
+    list-style: none;
+    color: white;
+}
+
+li a {
+    text-decoration: none;
+    color: white;
+}
+
+li a:hover {
+    text-decoration: underline;
+}
