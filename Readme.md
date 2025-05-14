@@ -31,7 +31,7 @@ Ce projet est une **affiche interactive réalisée en HTML et CSS**, inspirée d
 
 ## 📸 Aperçu
 
-[Haut de page](./images/First-result.png)
-[Bas de page](./images/First-result.png)
+![Haut de page](./images/First-result.png)
+![Bas de page](./images/second_result.png)
 
 ### 👨‍💻 Réalisé par Maïssane ABDALLAH
